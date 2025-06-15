@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -156,7 +156,7 @@
 
       <h3>Inquiry Form</h3>
       <p>If you're interested in working together, please fill out the form below and I'll follow up with you directly.</p>
-      <iframe https://forms.gle/k2oD9e9adNgqgaPB7?embedded=true width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2fFT1nfU642G8g29CVLE8YDGEbDsTLGVlyeWWjifnFlWQPQ/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     </section>
   </div>
   <footer>
