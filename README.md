@@ -94,10 +94,10 @@
     <section id="about">
       <h2>About Me</h2>
       <p>
-        With over a decade of hands-on expertise in ocular and auditory research, I offer specialized consulting and technical training in intraocular (intravitreal and subretinal) injection techniques for preclinical models. My background includes 11 years of in vivo research in mouse models, using therapeutics such as AAV-based gene therapies, bi-specific and single-chain antibodies, and CRISPR-Cas9 systems via dual AAV delivery. I also have extensive experience in mouse eye and cochlear dissections—skills I’ve used to support cutting-edge translational work in neuroimmunology and sensory system biology.
+        With over a decade of hands-on expertise in ocular and auditory research, I offer specialized consulting and technical training in intraocular (intravitreal and subretinal) injection techniques for preclinical models. My background includes 11 years of in vivo research in mouse models, using therapeutics such as AAV based gene therapies, bispecific and single-chain antibodies, and CRISPR-Cas9 systems via dual AAV delivery. I also have extensive experience in mouse eye and cochlear dissections skills I’ve used to support cutting edge translational work in neuroimmunology and sensory system biology.
       </p>
       <p>
-        Whether you're a university lab, biotech company, or training institution, I offer expert-led workshops, protocol development, and on-site or virtual training sessions designed to elevate your team’s precision and confidence in small-animal ocular procedures.
+        Whether you're a university lab, biotech company, or training institution, I offer expert led workshops, protocol development, and onsite or virtual training sessions designed to elevate your team’s precision and confidence in small animal ocular procedures.
       </p>
     </section>
 
